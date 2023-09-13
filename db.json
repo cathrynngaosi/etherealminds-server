@@ -12,11 +12,11 @@
       ],
       "price": 350,
       "images": [
-        "/src/data/images/20oz-tumblers/cover.JPG",
-        "/src/data/images/20oz-tumblers/1.JPG",
-        "/src/data/images/20oz-tumblers/2.JPG",
-        "/src/data/images/20oz-tumblers/3.JPG",
-        "/src/data/images/20oz-tumblers/4.JPG"
+        "images/20oz-tumblers/cover.JPG",
+        "images/20oz-tumblers/1.JPG",
+        "images/20oz-tumblers/2.JPG",
+        "images/20oz-tumblers/3.JPG",
+        "images/20oz-tumblers/4.JPG"
       ]
     },
     {
@@ -31,10 +31,10 @@
       ],
       "price": 380,
       "images": [
-        "/src/data/images/double-walled-mugs/cover.JPG",
-        "/src/data/images/double-walled-mugs/4.JPG",
-        "/src/data/images/double-walled-mugs/2.JPG",
-        "/src/data/images/double-walled-mugs/3.JPG"
+        "images/double-walled-mugs/cover.JPG",
+        "images/double-walled-mugs/4.JPG",
+        "images/double-walled-mugs/2.JPG",
+        "images/double-walled-mugs/3.JPG"
       ]
     },
     {
@@ -57,10 +57,10 @@
       ],
       "price": 300,
       "images": [
-        "/src/data/images/egg-tumblers/cover.JPG",
-        "/src/data/images/egg-tumblers/1.JPG",
-        "/src/data/images/egg-tumblers/2.JPG",
-        "/src/data/images/egg-tumblers/3.JPG"
+        "images/egg-tumblers/cover.JPG",
+        "images/egg-tumblers/1.JPG",
+        "images/egg-tumblers/2.JPG",
+        "images/egg-tumblers/3.JPG"
       ]
     },
     {
@@ -70,10 +70,7 @@
       "colors": [],
       "description": ["Capacity: 370ml", "Suitable for hot & cold drinks"],
       "price": 190,
-      "images": [
-        "/src/data/images/glass-mugs/cover.JPG",
-        "/src/data/images/glass-mugs/1.JPG"
-      ]
+      "images": ["images/glass-mugs/cover.JPG", "images/glass-mugs/1.JPG"]
     },
     {
       "id": "P-005",
@@ -87,11 +84,11 @@
       ],
       "price": 300,
       "images": [
-        "/src/data/images/glass-tumblers/cover.JPG",
-        "/src/data/images/glass-tumblers/1.JPG",
-        "/src/data/images/glass-tumblers/2.JPG",
-        "/src/data/images/glass-tumblers/3.JPG",
-        "/src/data/images/glass-tumblers/4.JPG"
+        "images/glass-tumblers/cover.JPG",
+        "images/glass-tumblers/1.JPG",
+        "images/glass-tumblers/2.JPG",
+        "images/glass-tumblers/3.JPG",
+        "images/glass-tumblers/4.JPG"
       ]
     },
     {
@@ -105,11 +102,11 @@
       ],
       "price": 250,
       "images": [
-        "/src/data/images/grande-mugs/cover.JPG",
-        "/src/data/images/grande-mugs/1.JPG",
-        "/src/data/images/grande-mugs/2.JPG",
-        "/src/data/images/grande-mugs/3.JPG",
-        "/src/data/images/grande-mugs/4.JPG"
+        "images/grande-mugs/cover.JPG",
+        "images/grande-mugs/1.JPG",
+        "images/grande-mugs/2.JPG",
+        "images/grande-mugs/3.JPG",
+        "images/grande-mugs/4.JPG"
       ]
     },
     {
@@ -123,10 +120,10 @@
       ],
       "price": 600,
       "images": [
-        "/src/data/images/leather-binder/cover.JPG",
-        "/src/data/images/leather-binder/1.JPG",
-        "/src/data/images/leather-binder/2.JPG",
-        "/src/data/images/leather-binder/3.JPG"
+        "images/leather-binder/cover.JPG",
+        "images/leather-binder/1.JPG",
+        "images/leather-binder/2.JPG",
+        "images/leather-binder/3.JPG"
       ]
     },
     {
@@ -145,9 +142,9 @@
       "description": ["Faux Leather"],
       "price": 130,
       "images": [
-        "/src/data/images/leather-keychains/cover.JPG",
-        "/src/data/images/leather-keychains/1.JPG",
-        "/src/data/images/leather-keychains/2.JPG"
+        "images/leather-keychains/cover.JPG",
+        "images/leather-keychains/1.JPG",
+        "images/leather-keychains/2.JPG"
       ]
     },
     {
@@ -158,12 +155,12 @@
       "description": ["Faux Leather", "Size: 6.50 x 4.52 x 2.17 inches"],
       "price": 490,
       "images": [
-        "/src/data/images/lg-jewelry-box/cover.JPG",
-        "/src/data/images/lg-jewelry-box/1.JPG",
-        "/src/data/images/lg-jewelry-box/2.JPG",
-        "/src/data/images/lg-jewelry-box/3.JPG",
-        "/src/data/images/lg-jewelry-box/4.JPG",
-        "/src/data/images/lg-jewelry-box/5.JPG"
+        "images/lg-jewelry-box/cover.JPG",
+        "images/lg-jewelry-box/1.JPG",
+        "images/lg-jewelry-box/2.JPG",
+        "images/lg-jewelry-box/3.JPG",
+        "images/lg-jewelry-box/4.JPG",
+        "images/lg-jewelry-box/5.JPG"
       ]
     },
     {
@@ -174,11 +171,11 @@
       "description": ["Capacity: 250ml", "Ceramic Mugs"],
       "price": 330,
       "images": [
-        "/src/data/images/macaron-mugs/cover.JPG",
-        "/src/data/images/macaron-mugs/1.JPG",
-        "/src/data/images/macaron-mugs/2.JPG",
-        "/src/data/images/macaron-mugs/3.JPG",
-        "/src/data/images/macaron-mugs/5.JPG"
+        "images/macaron-mugs/cover.JPG",
+        "images/macaron-mugs/1.JPG",
+        "images/macaron-mugs/2.JPG",
+        "images/macaron-mugs/3.JPG",
+        "images/macaron-mugs/5.JPG"
       ]
     },
     {
@@ -189,10 +186,10 @@
       "description": ["Capacity: 500 ml"],
       "price": 350,
       "images": [
-        "/src/data/images/milk-carton-tumblers/cover.JPG",
-        "/src/data/images/milk-carton-tumblers/1.JPG",
-        "/src/data/images/milk-carton-tumblers/2.JPG",
-        "/src/data/images/milk-carton-tumblers/3.JPG"
+        "images/milk-carton-tumblers/cover.JPG",
+        "images/milk-carton-tumblers/1.JPG",
+        "images/milk-carton-tumblers/2.JPG",
+        "images/milk-carton-tumblers/3.JPG"
       ]
     },
     {
@@ -211,9 +208,9 @@
       "description": ["Made of leather"],
       "price": 350,
       "images": [
-        "/src/data/images/passport-covers/cover.JPG",
-        "/src/data/images/passport-covers/1.JPG",
-        "/src/data/images/passport-covers/2.JPG"
+        "images/passport-covers/cover.JPG",
+        "images/passport-covers/1.JPG",
+        "images/passport-covers/2.JPG"
       ]
     },
     {
@@ -224,10 +221,10 @@
       "description": ["Made of PU Leather"],
       "price": 400,
       "images": [
-        "/src/data/images/r-jewelry-box/cover.JPG",
-        "/src/data/images/r-jewelry-box/1.JPG",
-        "/src/data/images/r-jewelry-box/2.JPG",
-        "/src/data/images/r-jewelry-box/3.JPG"
+        "images/r-jewelry-box/cover.JPG",
+        "images/r-jewelry-box/1.JPG",
+        "images/r-jewelry-box/2.JPG",
+        "images/r-jewelry-box/3.JPG"
       ]
     },
     {
@@ -238,10 +235,10 @@
       "description": ["Made of Faux Leather", "Size: 3.9 x 3.9 x 1.85 inches"],
       "price": 350,
       "images": [
-        "/src/data/images/sm-jewelry-box/cover.JPG",
-        "/src/data/images/sm-jewelry-box/1.PNG",
-        "/src/data/images/sm-jewelry-box/2.PNG",
-        "/src/data/images/sm-jewelry-box/3.JPG"
+        "images/sm-jewelry-box/cover.JPG",
+        "images/sm-jewelry-box/1.PNG",
+        "images/sm-jewelry-box/2.PNG",
+        "images/sm-jewelry-box/3.JPG"
       ]
     },
     {
@@ -260,11 +257,11 @@
       "description": ["Capacity: 500 ml", "Suitable for hot & cold drinks"],
       "price": 250,
       "images": [
-        "/src/data/images/vacuum-tumblers/cover.JPG",
-        "/src/data/images/vacuum-tumblers/1.JPG",
-        "/src/data/images/vacuum-tumblers/2.JPG",
-        "/src/data/images/vacuum-tumblers/3.JPG",
-        "/src/data/images/vacuum-tumblers/4.JPG"
+        "images/vacuum-tumblers/cover.JPG",
+        "images/vacuum-tumblers/1.JPG",
+        "images/vacuum-tumblers/2.JPG",
+        "images/vacuum-tumblers/3.JPG",
+        "images/vacuum-tumblers/4.JPG"
       ]
     },
     {
@@ -274,36 +271,33 @@
       "colors": [],
       "description": ["Capacity: 480 ml", "Suitable for cold drinks only!"],
       "price": 250,
-      "images": [
-        "/src/data/images/wine-glass/cover.JPG",
-        "/src/data/images/wine-glass/2.JPG"
-      ]
+      "images": ["images/wine-glass/cover.JPG", "images/wine-glass/2.JPG"]
     }
   ],
   "collections": [
     {
       "name": "Shop All",
-      "cover": "../src/data/images/cover-1.JPG"
+      "cover": "..images/cover-1.JPG"
     },
     {
       "name": "Tumblers",
-      "cover": "../src/data/images/vacuum-tumblers/cover.JPG"
+      "cover": "..images/vacuum-tumblers/cover.JPG"
     },
     {
       "name": "Mugs",
-      "cover": "../src/data/images/double-walled-mugs/cover.JPG"
+      "cover": "..images/double-walled-mugs/cover.JPG"
     },
     {
       "name": "Jewelry Boxes",
-      "cover": "../src/data/images/sm-jewelry-box/1.PNG"
+      "cover": "..images/sm-jewelry-box/1.PNG"
     },
     {
       "name": "Glass Items",
-      "cover": "../src/data/images/wine-glass/cover.JPG"
+      "cover": "..images/wine-glass/cover.JPG"
     },
     {
       "name": "Leather Items",
-      "cover": "../src/data/images/leather-keychains/cover.JPG"
+      "cover": "..images/leather-keychains/cover.JPG"
     }
   ],
   "faqs": [

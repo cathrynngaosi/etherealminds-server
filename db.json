@@ -277,27 +277,27 @@
   "collections": [
     {
       "name": "Shop All",
-      "cover": "../images/cover-1.JPG"
+      "cover": "/images/cover-1.JPG"
     },
     {
       "name": "Tumblers",
-      "cover": "../images/vacuum-tumblers/cover.JPG"
+      "cover": "/images/vacuum-tumblers/cover.JPG"
     },
     {
       "name": "Mugs",
-      "cover": "../images/double-walled-mugs/cover.JPG"
+      "cover": "/images/double-walled-mugs/cover.JPG"
     },
     {
       "name": "Jewelry Boxes",
-      "cover": "../images/sm-jewelry-box/1.PNG"
+      "cover": "/images/sm-jewelry-box/1.PNG"
     },
     {
       "name": "Glass Items",
-      "cover": "../images/wine-glass/cover.JPG"
+      "cover": "/images/wine-glass/cover.JPG"
     },
     {
       "name": "Leather Items",
-      "cover": "../images/leather-keychains/cover.JPG"
+      "cover": "/images/leather-keychains/cover.JPG"
     }
   ],
   "faqs": [
